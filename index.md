@@ -8,7 +8,7 @@ Another source of inspiration for me comes from watching people who can confiden
 
 
 ## Project Nameplate
-Over the course of the past month, me and my fellow innovators have learned and explored new tools and new methods to designing and creating, I have created this page to display some of the things that I have created over the course of project nameplate.
+Over the course of the past month, my fellow innovators and I have learned and explored new tools and new methods to designing and creating, I have created this page to display some of the things that I have created over the course of project nameplate.
 
 ### Digital Design
 When designating roles for making the nameplates I signed myself up for the mock up team. Me and my partner went through multiple designs, testing and changing over and over again until we felt comfortable bringing a piece of work to the class. Below I will list display a few of the designs that I have created.
@@ -21,11 +21,10 @@ When designating roles for making the nameplates I signed myself up for the mock
 
 
 ### Adobe Illustrator
-One thing that I am proud to say that I have learned is Adobe Illustrator. I used it quite frequently throughout the project, so I became quite comfortable with it, learning all the controls and everyhting that comes with it. I can now say that whenever I need to design something digitally I can go and use Adobe Illustrator. For more reference view the pictures above, as there are numerous more designs that are very similar. 
+One thing that I am proud to say that I have learned is Adobe Illustrator. I used it quite frequently throughout the project, so I became quite comfortable with it, learning all the controls and everything that comes with it. I can now say that whenever I need to design something digitally I can go and use Adobe Illustrator. For more reference view the pictures above, as there are numerous more designs that are very similar. 
 
 ### Final Design
-Although I can not take credit for the tremendous amount of work my fellow innovators have put in, I can say that I did partially help with the design template, but everything else is coming from them. I will display what our classrooom has designed ov
-er the course of the past month.
+Although I can not take credit for the tremendous amount of work my fellow innovators have put in, I can say that I did partially help with the design template, but everything else is coming from them. I will display what our classrooom has designed over the course of the past month.
 
 
 ![Matte](https://github.com/user-attachments/assets/eb574157-f38f-4fef-aa09-39cd181242e3)
