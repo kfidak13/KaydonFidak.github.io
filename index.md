@@ -15,7 +15,6 @@ When designating roles for making the nameplates I signed myself up for the mock
 
 
 ![The Original Design](<img width="959" height="242" alt="Screenshot 2025-09-25 at 7 34 43 PM" src="https://github.com/user-attachments/assets/cde69524-79a7-429f-8833-49770b10255c" />)
-
 ![](<img width="578" height="143" alt="Screenshot 2025-09-25 at 8 58 54 PM" src="https://github.com/user-attachments/assets/f38eb2fe-c8bd-4075-8802-38394aa561bd" />)
 
 
