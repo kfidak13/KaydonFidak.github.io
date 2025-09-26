@@ -12,6 +12,7 @@ Over the course of the past month, me and my fellow innovators have learned and 
 
 ### Digital Design
 When designating roles for making the nameplates I signed myself up for the mock up team. Me and my partner went through multiple designs, testing and changing over and over again until we felt comfortable bringing a piece of work to the class. Below I will list display a few of the designs that I have created.
+![The Original Design](<img width="959" height="242" alt="Screenshot 2025-09-25 at 7 34 43 PM" src="https://github.com/user-attachments/assets/cde69524-79a7-429f-8833-49770b10255c" />)
 
-![The Original](<img width="959" height="242" alt="Screenshot 2025-09-25 at 7 34 43 PM" src="https://github.com/user-attachments/assets/4d2dfb78-8e12-480e-8344-e447f18750de" />)
+
 
