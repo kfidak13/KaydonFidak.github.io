@@ -4,5 +4,5 @@
 I am Kaydon and my goal in the Tech and Innovation Seminar is to gain a deeper understanding of how to create and bring ideas to life. I want to explore the process of turning imagination into something tangible, whether that be through technology, design, or problem-solving. Some of the experiences that have shaped me most involve community service. Through volunteering, I have learned the importance of giving to others rather than focusing only on myself. These opportunities have shown me the value of empathy, responsibility, and teamwork, and they continue to influence the way I approach challenges.
 
 Another source of inspiration for me comes from watching people who can confidently stand in front of a crowd and communicate their thoughts without hesitation. Their ability to connect with others and share information with clarity motivates me to build confidence in my own voice and presentation skills. Looking ahead, one of my major goals is to create a meaningful project during this seminar—something that represents my growth and creativity. I hope it will be a project I can look back on years from now as a reminder of the progress I made and the experiences that shaped me during this time.
-
-PNP.md
+[
+PNP.md](https://github.com/kfidak13/kfidak13.github.io/tree/main#:~:text=15%20Commits-,PNP.md,-Update%20PNP.md)
