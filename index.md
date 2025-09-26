@@ -20,8 +20,17 @@ When designating roles for making the nameplates I signed myself up for the mock
 
 
 ### Adobe Illustrator
-One thing that I am proud to say that I have learned is Adobe Illustrator. I used it quite frequently throughout the project, so I became quite comfortable with it, learning all the controls and everyhting that comes with it. I can now say that whenever I need to design something digitally I can go and use Adobe Illustrator. For more reference view the pictures above, as there are numerous more designs that are very similar.
+One thing that I am proud to say that I have learned is Adobe Illustrator. I used it quite frequently throughout the project, so I became quite comfortable with it, learning all the controls and everyhting that comes with it. I can now say that whenever I need to design something digitally I can go and use Adobe Illustrator. For more reference view the pictures above, as there are numerous more designs that are very similar. 
 
+### Final Design
+Although I can not take credit for the tremendous amount of work my fellow innovators have put in, I can say that I did partially help with the design template, but everything else is coming from them. I will display what our classrooom has designed ov
+er the course of the past month.
+
+
+![Matte](https://github.com/user-attachments/assets/eb574157-f38f-4fef-aa09-39cd181242e3)
+
+
+![White](https://github.com/user-attachments/assets/3d031bf7-4f12-49ec-8175-b0cc9808ade1)
 
 
 
