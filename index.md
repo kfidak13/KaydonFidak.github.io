@@ -19,6 +19,10 @@ When designating roles for making the nameplates I signed myself up for the mock
 ![Central Idea](<img width="1156" height="285" alt="image" src="https://github.com/user-attachments/assets/d1ee1fec-7b2e-4a18-85a3-d9b6786f8c01" />)
 
 
+### Adobe Illustrator
+One thing that I am proud to say that I have learned is Adobe Illustrator. I used it quite frequently throughout the project, so I became quite comfortable with it, learning all the controls and everyhting that comes with it. I can now say that whenever I need to design something digitally I can go and use Adobe Illustrator. For more reference view the pictures above, as there are numerous more designs that are very similar.
+
+
 
 
 
