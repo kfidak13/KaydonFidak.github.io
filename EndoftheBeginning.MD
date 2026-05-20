@@ -5,3 +5,4 @@ It is now the end of the year, and my 9-ish months of work in Tech and Innovatio
 
 ### Project PNP
 The project nameplate is what started it all. Whether you have read my previous journals or not, it is important to note that this is what started it all. It sparked my creation for design, and allowed me to invest in the Webb community. We spent approximately a month on this project with the aim to create nameplates for the admissions team. IT taught us all very important communication skills with "customers" that have helped me create projects up to this point.
+
