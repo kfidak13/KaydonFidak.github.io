@@ -19,5 +19,4 @@ Now this was the most difficult project out of them all... this project took a t
 (Insert Image Here)
 
 ### Lifetrack
-This is where my website-building journey began. When this project started, the goal was to work for 2 weeks and see where we got. My teachers instructed me to interview someone around Webb and find something that would not only benefit them, but the Webb community as a whole. I interviewed a respected journalist Joshua Hong https://webbcanyonchronicle.com/staff_name/joshua-hong/
-
+This is where my website-building journey began. When this project started, the goal was to work for 2 weeks and see where we got. My teachers instructed me to interview someone around Webb and find something that would not only benefit them, but the Webb community as a whole. I interviewed a respected journalist [Joshua Hong](https://webbcanyonchronicle.com/staff_name/joshua-hong/) 
