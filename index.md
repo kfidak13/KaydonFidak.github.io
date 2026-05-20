@@ -1,5 +1,4 @@
-Copy
-layout: default
+default
 title: "Kaydon, Innovator Portfolio"
 <div class="status-row">
   <span class="badge live">● Live: Webb Athletics Hub</span>
