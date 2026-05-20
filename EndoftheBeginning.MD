@@ -23,4 +23,15 @@ This is where my website-building journey began. When this project started, the 
 
 (Insert Image Here)
 
+### My Personal Triumph
+This is probaly my piece of work I am most proud of in my schooling career. If you aren't aware of my Digital Athletic Hub to assist, inform, and reach the Webb community, [Webb Athletics Hub](https://webbathletics.org/dashboard), you are missing out... just joking. This website/app is one of my best pieces of work. Remember how I said I used lovable for the other one, I moved to the more sophisticated version: Windsurf. This application is not an AI designed to build apps/websites, but rather a codebase that has the access to almost every single AI that can assist you in coding. So, while you code you can ask it a question or request in the side bar, and it will work in your codebase and help build. This helped me build a project that normally would've take me multiple years, into three months. 
+
+#### The Struggles
+So, when trying to make a website, it isn't the easiest thing... even with the help of AI. There was a lot of times I mad a lot of progress with my work, but then I would mess it up with the next command, two steps forward, one step back kind of thing. My main problem came with security, because at first my webpage parser would pick up people's adresses with their profile, which can not be displayed. I immediately removed that. Another struggle was trying to encrypt text chains for the messaging platform. We came up with actually a really simple solution, putting it in the Webb database. Other than security issues though, you also have to consider the fact that this will be a lot for a single student to manage for a whole year by himself. And the solution for that is that it isn't... the only thing you can do is recieve the assistance from those who are willing and hope you are able to manage that. But, everything wasn't doom and gloom there was still major successes...
+
+#### The Wins!!!!
+Despite all those quite major setbacks occurred there was a lot of good things that came along. First off, the first win is that everyone who I went to for assistance or suggestions were always available and helped a ton, so shoutout to them for all that helpe, specifically Patrick Kang. But second off, the app actually works!!! People are able to see their rosters, stats, record, schedule, and I believe if I put only a few hours in over the Summer it will be ready to be pushed out to the public come next year. A feature that recieved a lot of positive feedback is the messaging feature. A lot of sports teams are on messaging chains outside of Webb spaces, so our Athletic Director. Mrs. Kapp requested I make some sort of messaging chain that allows her to supervise team chats and make sure that everything is good in there. It also allows her to make direct announcements to all student athletes as well as coaches. 
+
+#### The Future
+
 
