@@ -1,53 +1,59 @@
 layout: default
-title: "Kaydon — Innovator Portfolio"
+title: "Kaydon, Innovator Portfolio"
 <div class="status-row">
-  <span class="badge live">● Live: Webb Sports Hub</span>
-  <span class="badge wip">◐ Building: Portfolio v2</span>
-  <span class="badge shipped">✓ Shipped: Project Nameplate</span>
+  <span class="badge live">● Live: Webb Athletics Hub</span>
+  <span class="badge shipped">✓ Year wrapped</span>
+  <span class="badge wip">◐ Coming Fall 2026: public launch</span>
 </div>
 About me
-I'm Kaydon. My goal in the Tech and Innovation Seminar is to gain a deeper understanding of how to take an idea and actually build it — through code, design, or whatever the project calls for. A lot of what shapes the way I work comes from community service, where I learned that the most useful things you build are the ones that are actually for someone else.
-I also pay close attention to people who can stand up in front of a room and explain something clearly. Building the confidence to do that — both in person and through the work I publish here — is one of the things I am working on this year.
+I'm Kaydon. Over the course of the Tech and Innovation Seminar I went from "I don't know how to code" to shipping a full athletics hub for my school. The path got me hooked on building websites, and the through line for all of it has been making something useful for the Webb community.
+A lot of what shapes the way I work comes from community service, where I learned that the most useful things you build are the ones that are actually for someone else. I also pay close attention to people who can stand up in front of a room and explain something clearly. Building the confidence to do that, both in person and through the work I publish here, is one of the things I worked on this year.
 
 🚀 Main Projects
 <div class="project-grid">
-  <a class="project-card" href="https://webb-athletics-hub.vercel.app" target="_blank" rel="noopener" style="--card-accent: #ff5b3a;">
+  <a class="project-card" href="https://webbathletics.org/dashboard" target="_blank" rel="noopener" style="--card-accent: #ff5b3a;">
     <span class="tag">// Live · React + Supabase</span>
-    <h3>Webb Sports Hub</h3>
-    <p>A full athletics hub for my school: schedules, real-time chat, and personal stat tracking with auth. The flagship project of this year.</p>
+    <h3>Webb Athletics Hub</h3>
+    <p>A digital athletics hub for the Webb community. Schedules, rosters, stats, records, and a supervised messaging platform for teams. Built over three months using Windsurf.</p>
     <span class="arrow">visit live site →</span>
   </a>
   <a class="project-card" href="https://github.com/kfidak13/team-schedule-hub" target="_blank" rel="noopener" style="--card-accent: #6ee7ff;">
     <span class="tag">// Source code</span>
-    <h3>Sports Hub — GitHub</h3>
-    <p>Vite + React + TypeScript + Tailwind frontend. Supabase for auth, database, and realtime. Capacitor for mobile wrappers.</p>
+    <h3>Athletics Hub on GitHub</h3>
+    <p>Vite + React + TypeScript + Tailwind frontend. Supabase for auth, database, and realtime messaging. Capacitor scaffolded for future iOS/Android builds.</p>
     <span class="arrow">view repo →</span>
   </a>
   <a class="project-card" href="LifeTrack.html" style="--card-accent: #fcd34d;">
-    <span class="tag">// Concept · Side project</span>
+    <span class="tag">// Built with Lovable · Client project</span>
     <h3>LifeTrack</h3>
-    <p>An app concept for everyday life management. Currently parked while I focus on Sports Hub, but the design work lives on here.</p>
+    <p>My first website. Built in two weeks for a Webb journalist who wanted one app instead of five. Delivered to the client and parked while I focused on Athletics Hub.</p>
     <span class="arrow">read more →</span>
   </a>
 </div>
 
 📓 Journals & Reflections
 <div class="project-grid">
-  <a class="project-card" href="Journal4.html" style="--card-accent: #ff5b3a;">
-    <span class="tag">// 4-30-26 · Latest</span>
-    <h3>Journal #4 — Three Weeks In</h3>
-    <p>What I built since spring break: Supabase auth, real-time chat, stats tracking, and what I learned the hard way about RLS policies.</p>
+  <a class="project-card" href="EndoftheBeginning.MD" style="--card-accent: #ff5b3a;">
+    <span class="tag">// 5-13 to 5-30 · Year-end</span>
+    <h3>End of the Beginning</h3>
+    <p>The full year-end recap. PNP, Tech Trends, 3D Scanner, LifeTrack, and the personal triumph that is Webb Athletics Hub. The struggles, the wins, and what comes next.</p>
     <span class="arrow">read →</span>
   </a>
-  <a class="project-card" href="ReflectionBfrSB.html" style="--card-accent: #6ee7ff;">
+  <a class="project-card" href="Journal4.html" style="--card-accent: #6ee7ff;">
+    <span class="tag">// 4-30-26</span>
+    <h3>Journal #4, Three Weeks In</h3>
+    <p>What I built after spring break: Supabase auth, real-time chat, stats tracking, and what I learned the hard way about RLS policies.</p>
+    <span class="arrow">read →</span>
+  </a>
+  <a class="project-card" href="ReflectionBfrSB.html" style="--card-accent: #fcd34d;">
     <span class="tag">// 3-19-26</span>
     <h3>Reflection Before Spring Break</h3>
     <p>Where I was at heading into the break, what I wanted to come back and finish, and the mental refresh that made it possible.</p>
     <span class="arrow">read →</span>
   </a>
-  <a class="project-card" href="Journal3.html" style="--card-accent: #fcd34d;">
+  <a class="project-card" href="Journal3.html" style="--card-accent: #ff5b3a;">
     <span class="tag">// Days 3-8</span>
-    <h3>Journal #3 — Early Progress</h3>
+    <h3>Journal #3, Early Progress</h3>
     <p>Documenting the first stretch of work in the seminar.</p>
     <span class="arrow">read →</span>
   </a>
@@ -58,19 +64,19 @@ I also pay close attention to people who can stand up in front of a room and exp
   <a class="project-card" href="VR%20Case%20Studies.html" style="--card-accent: #6ee7ff;">
     <span class="tag">// Hardware</span>
     <h3>VR Case Studies</h3>
-    <p>What I explored using the Meta Quest Pro — applications, limitations, and what I learned about the medium.</p>
+    <p>What I explored using the Meta Quest Pro. Applications, limitations, and what I learned about the medium.</p>
     <span class="arrow">read →</span>
   </a>
   <a class="project-card" href="3d%20Scanner.html" style="--card-accent: #fcd34d;">
     <span class="tag">// Arduino</span>
     <h3>3D Scanner</h3>
-    <p>Group progress on building a working 3D scanner using Arduino.</p>
+    <p>Group progress on building a working 3D scanner using Arduino and a stepper motor.</p>
     <span class="arrow">read →</span>
   </a>
   <a class="project-card" href="DataAnalyticswithAI.html" style="--card-accent: #ff5b3a;">
     <span class="tag">// AI · Data</span>
     <h3>Data Analytics with AI</h3>
-    <p>Early-stage thinking that became Webb Sports Hub.</p>
+    <p>Early-stage thinking that became Webb Athletics Hub.</p>
     <span class="arrow">read →</span>
   </a>
   <a class="project-card" href="SDGMicroSprint.html" style="--card-accent: #6ee7ff;">
@@ -82,16 +88,16 @@ I also pay close attention to people who can stand up in front of a room and exp
   <a class="project-card" href="PNP.html" style="--card-accent: #fcd34d;">
     <span class="tag">// Design</span>
     <h3>Project Nameplate</h3>
-    <p>Adobe Illustrator mock-ups and the nameplate I helped design and ship with the cohort.</p>
+    <p>The project that started it all. Adobe Illustrator mock-ups and the nameplate I helped design and ship with the cohort for the admissions team.</p>
     <span class="arrow">read →</span>
   </a>
   <a class="project-card" href="Attempt%231.html" style="--card-accent: #ff5b3a;">
     <span class="tag">// Iteration</span>
     <h3>Attempt #1</h3>
-    <p>An early attempt — kept here as a reminder that the first try usually is not the final one.</p>
+    <p>An early attempt. Kept here as a reminder that the first try usually is not the final one.</p>
     <span class="arrow">read →</span>
   </a>
 </div>
 
 What's next
-Heading toward the USC visit on May 13. The plan: ship a polished demo of Webb Sports Hub end-to-end, and have this portfolio looking the way I want it to look when other people see it. Trying to keep the scope tight — finish one thing well instead of leaving three things half-done.
+The year is wrapped. Webb Athletics Hub is live at webbathletics.org and ready for a public launch in Fall 2026 with a bit more polish over the summer. Going into next year I want to keep building, keep shipping, and keep finding things to make for the Webb community, keep the scope tight, and finish one thing well instead of leaving three things half-done.
