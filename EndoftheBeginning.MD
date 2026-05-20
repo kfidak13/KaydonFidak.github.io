@@ -4,7 +4,7 @@
 It is now the end of the year, and my 9-ish months of work in Tech and Innovation Seminar are coming to a close. It was a great time, honestly. I learned a lot, gained a lot of valuable skills, and found an interest in building websites. In this last journal, I want to recap everything I did, but primarily focus on my final endeavour. 
 
 ### Project PNP
-The project nameplate is what started it all. Whether you have read my previous journals or not, it is important to note that this is what started it all. It sparked my creation for design, and allowed me to invest in the Webb community. We spent approximately a month on this project with the aim to create nameplates for the admissions team. It taught us all very important communication skills with "customers" that have helped me create projects up to this point. My role in the project was to make the design for the front of the nameplate, and the original design will be displayed below.
+The project nameplate is what started it all. Whether you have read my previous journals or not, it is important to note that this is what started it all. It sparked my passion for design and allowed me to invest in the Webb community. We spent approximately a month on this project with the aim of creating nameplates for the admissions team. It taught us all very important communication skills with "customers" that have helped me create projects up to this point. My role in the project was to make the design for the front of the nameplate, and the original design will be displayed below.
 
 (Insert Image Here)
 
@@ -19,4 +19,8 @@ Now this was the most difficult project out of them all... this project took a t
 (Insert Image Here)
 
 ### Lifetrack
-This is where my website-building journey began. When this project started, the goal was to work for 2 weeks and see where we got. My teachers instructed me to interview someone around Webb and find something that would not only benefit them, but the Webb community as a whole. I interviewed a respected journalist [Joshua Hong](https://webbcanyonchronicle.com/staff_name/joshua-hong/) 
+This is where my website-building journey began. When this project started, the goal was to work for 2 weeks and see where we got. My teachers instructed me to interview someone around Webb and find something that would not only benefit them, but the Webb community as a whole. I interviewed a respected journalist [Joshua Hong](https://webbcanyonchronicle.com/staff_name/joshua-hong/) who had mentioned that he finds it very tedious that in daily life he has to use so many different apps to keep habits up and keep track of his work. If you want to view my website, view my previous journal. But, when constructing it, I ran into a problem... I don't know how to code!! I discussed with my peers for a bit when one of my classmates introduced me to an AI that helps build apps/websites: Lovable. It did a really good job getting me a fully functioning website in 2 weeks. In the end I gve the product back to the client, and he was very satisfied with the project, but in the end, I ended up dropping the project for my personal project.
+
+(Insert Image Here)
+
+
