@@ -1,3 +1,4 @@
+Copy
 layout: default
 title: "Kaydon, Innovator Portfolio"
 <div class="status-row">
@@ -33,7 +34,7 @@ A lot of what shapes the way I work comes from community service, where I learne
 
 📓 Journals & Reflections
 <div class="project-grid">
-  <a class="project-card" href="EndoftheBeginning.MD" style="--card-accent: #ff5b3a;">
+  <a class="project-card" href="EndoftheBeginning.html" style="--card-accent: #ff5b3a;">
     <span class="tag">// 5-13 to 5-30 · Year-end</span>
     <h3>End of the Beginning</h3>
     <p>The full year-end recap. PNP, Tech Trends, 3D Scanner, LifeTrack, and the personal triumph that is Webb Athletics Hub. The struggles, the wins, and what comes next.</p>
@@ -100,4 +101,4 @@ A lot of what shapes the way I work comes from community service, where I learne
 </div>
 
 What's next
-The year is wrapped. Webb Athletics Hub is live at webbathletics.org and ready for a public launch in Fall 2026 with a bit more polish over the summer. Going into next year I want to keep building, keep shipping, and keep finding things to make for the Webb community, keep the scope tight, and finish one thing well instead of leaving three things half-done.
+The year is wrapped. Webb Athletics Hub is live at webbathletics.org and ready for a public launch in Fall 2026 with a bit more polish over the summer. Going into next year I want to keep building, keep shipping, and keep finding things to make for the Webb community.
