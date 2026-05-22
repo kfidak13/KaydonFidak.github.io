@@ -6,7 +6,7 @@ It is now the end of the year, and my 9-ish months of work in Tech and Innovatio
 ### Project PNP
 The project nameplate is what started it all. Whether you have read my previous journals or not, it is important to note that this is what started it all. It sparked my passion for design and allowed me to invest in the Webb community. We spent approximately a month on this project with the aim of creating nameplates for the admissions team. It taught us all very important communication skills with "customers" that have helped me create projects up to this point. My role in the project was to make the design for the front of the nameplate, and the original design will be displayed below.
 
-(Insert Image Here)
+<img width="1000" height="1500" alt="6f906104-ecf4-42a7-bdfe-183edfcd3571" src="https://github.com/user-attachments/assets/fbcee1bf-af5d-46fb-b606-aac82eb6a204" />
 
 ### Tech Trends
 This was one of the shorter projects this year, but it was still very important. For my tech trend, I experimented with VR in the Webb community. I tried different things on the VR to see how it could be beneficial for the Webb community. My first thought was the art space. For classes like Media Arts or New Media, I thought it would be useful if they were able to work on their 3d design projects in the space, fully immersed. I found that for that to be possible, it required a subscription, which wasn't very helpful for my case, but I found some free versions that helped, and even made a few CADs of my own. Overall, this was when I first learned that not all projects are successful, but you have to work with what you have and make the most out of it.
@@ -33,5 +33,5 @@ So, when trying to make a website, it isn't the easiest thing... even with the h
 Despite all those quite major setbacks that occurred, there were a lot of good things that came along. First off, the first win is that everyone I went to for assistance or suggestions was always available and helped a ton, so shoutout to them for all that help, specifically Patrick Kang. But second off, the app actually works!!! People are able to see their rosters, stats, record, schedule, and I believe if I put only a few hours in over the Summer it will be ready to be pushed out to the public come next year. A feature that received a lot of positive feedback is the messaging feature. A lot of sports teams are on messaging chains outside of Webb spaces, so our Athletic Director. Mrs. Kapp requested that I make some sort of messaging chain that allows her to supervise team chats and make sure that everything is good in there. It also allows her to make direct announcements to all student-athletes as well as coaches. 
 
 #### The Future
-
+The future is to continue lol
 
