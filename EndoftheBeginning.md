@@ -1,3 +1,4 @@
+<img width="1024" height="768" alt="37A4D827-B188-4A21-A009-3024B5E690B8_1_105_c" src="https://github.com/user-attachments/assets/d3f247ed-a171-4d2c-b80a-3a2ad1537529" />
 # End of the Beginning
 
 ## May 13-30
@@ -16,7 +17,7 @@ This was one of the shorter projects this year, but it was still very important.
 ### 3D Scanner...
 Now this was the most difficult project out of them all... this project took a ton of time, and still barely worked. As a student not too familiar with 3d scanning, we had to get the assistance of WebbGPT to make the code to plot the points necessary for the scanner to work. I don't have too much to say about this project, because it was extremely confusing, but the main takeaway, in my opinion, was the understanding of how electronics like the Arduino and stepper motor work.
 
-(Insert Image Here)
+<img width="1024" height="768" alt="37A4D827-B188-4A21-A009-3024B5E690B8_1_105_c" src="https://github.com/user-attachments/assets/1091c978-4121-4fa0-8759-5699966c0724" />
 
 ### Lifetrack
 This is where my website-building journey began. When this project started, the goal was to work for 2 weeks and see where we got. My teachers instructed me to interview someone around Webb and find something that would not only benefit them, but the Webb community as a whole. I interviewed a respected journalist [Joshua Hong](https://webbcanyonchronicle.com/staff_name/joshua-hong/) who had mentioned that he finds it very tedious that in daily life, he has to use so many different apps to keep habits up and keep track of his work. If you want to view my website, view my previous journal. But, when constructing it, I ran into a problem... I don't know how to code!! I discussed with my peers for a bit when one of my classmates introduced me to an AI that helps build apps/websites: Lovable. It did a really good job getting me a fully functioning website in 2 weeks. In the end I gve the product back to the client, and he was very satisfied with the project, but in the end, I ended up dropping the project for my personal project.
