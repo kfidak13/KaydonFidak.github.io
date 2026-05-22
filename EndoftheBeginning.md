@@ -1,4 +1,3 @@
-<img width="1024" height="768" alt="37A4D827-B188-4A21-A009-3024B5E690B8_1_105_c" src="https://github.com/user-attachments/assets/d3f247ed-a171-4d2c-b80a-3a2ad1537529" />
 # End of the Beginning
 
 ## May 13-30
