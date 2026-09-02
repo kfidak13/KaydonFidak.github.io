@@ -9,6 +9,7 @@ About me
 I'm Kaydon. Over the course of the Tech and Innovation Seminar, I went from "I don't know how to code" to shipping a full athletics hub for my school. The path got me hooked on building websites, and the through line for all of it has been making something useful for the Webb community.
 A lot of what shapes the way I work comes from community service, where I learned that the most useful things you build are the ones that are actually for someone else. I also pay close attention to people who can stand up in front of a room and explain something clearly. Building the confidence to do that, both in person and through the work I publish here, is one of the things I worked on this year.
 
+
 In the 2026-27 school year, I am taking Tech and Innovation Seminar II. I hope to utilize this year to hone in on my skills and develop some more of my passions. So far we have though outside a box by using a box, it required you to use those innovation skills that we will put to use this year. I hope to do something even greater this year than last. Maybe continue working on the Webb Athletics Hub, or maybe something different who knows? All I know is that it will be something great. I hope to continue doing good things, and if anyone in Tech Sem I needs help, I will always be there to help. Let's have a great year!
 
 🚀 Main Projects
