@@ -2,8 +2,8 @@ default
 title: "Kaydon, Innovator Portfolio"
 <div class="status-row">
   <span class="badge live">● Live: Webb Athletics Hub</span>
-  <span class="badge shipped">✓ Year wrapped</span>
-  <span class="badge wip">◐ Coming Fall 2026: public launch</span>
+  <span class="badge shipped">✓ Tech Sem I wrapped</span>
+  <span class="badge wip">◐ Now: Tech & Innovation Seminar II</span>
 </div>
 About me
 I'm Kaydon. Over the course of the Tech and Innovation Seminar, I went from "I don't know how to code" to shipping a full athletics hub for my school. The path got me hooked on building websites, and the through line for all of it has been making something useful for the Webb community.
@@ -36,6 +36,12 @@ In the 2026-27 school year, I am taking Tech and Innovation Seminar II. I hope t
 
 📓 Journals & Reflections
 <div class="project-grid">
+  <a class="project-card" href="thinking-outside-the-box.html" style="--card-accent: #6ee7ff;">
+    <span class="tag">// 9-7-26 · Tech Sem II</span>
+    <h3>Thinking Outside the Box</h3>
+    <p>One cardboard box, four builds: a passive phone audio director, a cup sleeve, a pencil organizer, and a doorstop. What the material taught me about designing with shape instead of parts.</p>
+    <span class="arrow">read →</span>
+  </a>
   <a class="project-card" href="EndoftheBeginning.html" style="--card-accent: #ff5b3a;">
     <span class="tag">// 5-13 to 5-30 · Year-end</span>
     <h3>End of the Beginning</h3>
@@ -103,4 +109,4 @@ In the 2026-27 school year, I am taking Tech and Innovation Seminar II. I hope t
 </div>
 
 What's next
-The year is wrapped. Webb Athletics Hub is live at webbathletics.org and ready for a public launch in Fall 2026 with a bit more polish over the summer. Going into next year I want to keep building, keep shipping, and keep finding things to make for the Webb community.
+Year one is wrapped, and Webb Athletics Hub is live at webbathletics.org. Now I'm into Tech and Innovation Seminar II, starting with the cardboard box build and figuring out where the rest of the year goes from there. Whether that means more work on Athletics Hub or something new entirely, the goal is the same as last year: keep building, keep shipping, and keep finding things to make for the Webb community.
