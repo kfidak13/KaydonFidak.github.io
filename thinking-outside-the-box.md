@@ -12,10 +12,14 @@ The assignment was exactly what it sounds like: take a cardboard box and make so
 
 **Doorstop.** The simplest build and the one that gets used most. Folded cardboard compressed into a wedge, jammed under the door edge. Cardboard turns out to be great at this; it deforms just enough to grip the floor instead of sliding.
 
-![Phone audio director](04-phone-audio-director.jpg)
-![Cup sleeve](01-cup-sleeve.jpg)
-![Pencil organizer](03-pencil-organizer.jpg)
-![Doorstop](02-doorstop.jpg)
+<img width="768" height="1024" alt="A4AAFF89-B286-42F7-98BA-AEC7461C9FED_1_105_c" src="https://github.com/user-attachments/assets/a219252e-29b6-44c3-a440-c17d8fe3d4d0" />
+
+<img width="768" height="1024" alt="559CEF55-9EF1-4C93-8275-25A67E21C1AE_1_105_c" src="https://github.com/user-attachments/assets/916bee15-9827-4c1b-9b72-46907fbbf71f" />
+
+<img width="768" height="1024" alt="2DEB208C-BCAC-4CD2-8828-EEAFC8CBAEBF_1_105_c" src="https://github.com/user-attachments/assets/a652f3b1-d5e1-49e1-8342-ecacc3527afe" />
+
+<img width="768" height="1024" alt="59C8E1CE-CDF0-4569-9A26-EDFEDF86DE15_1_105_c" src="https://github.com/user-attachments/assets/762e1ecf-4c2c-4fd9-b013-62136090e4a2" />
+
 
 ## Lessons Learned
 
